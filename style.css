@@ -1,0 +1,123 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.podcast-page-background-container {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/podcasts-bg.png");
+    height: 30vh;
+    background-size: cover;
+    padding: 20px;
+}
+
+.heading {
+    font-family: "Roboto";
+    color: #ffffff;
+    font-weight: 200;
+    font-style: solid;
+    font-size: 28px;
+}
+
+.podcast-card {
+    margin: 20px;
+}
+
+.podcast-items {
+    text-align: center;
+    margin: 10px;
+}
+
+.podcast-item-title {
+    font-family: "Roboto";
+    color: #151765;
+    font-weight: bold;
+    padding: 5px;
+    font-style: solid;
+    font-size: 16px;
+}
+
+.podcast-item-value {
+    font-family: "Roboto";
+    color: #5a7184;
+    font-size: 16px;
+    font-style: solid;
+    font-weight: 500;
+}
+
+.podcast-bg-container {
+    background-color: #151765;
+    background-size: cover;
+    height: 20vh;
+    margin: 20px;
+}
+
+.image-size {
+    height: 120px;
+    width: 150px;
+    padding: 10px;
+}
+
+.top-section {
+    margin: 5px;
+}
+
+.puri-heading {
+    font-family: "Roboto";
+    color: #ffffff;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: normal;
+}
+
+.puri-main-heading {
+    font-family: "Roboto";
+    color: #ffffff;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: bold;
+
+}
+
+.puri-description {
+    font-family: "Roboto";
+    color: #ffffff;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: normal;
+}
+
+.podcast-item--container-card {
+    margin: 15px;
+}
+
+.podcast-detail-title {
+    font-family: "Roboto";
+    color: #151765;
+    font-weight: bold;
+    font-style: solid;
+    font-size: 15px;
+}
+
+.podcast-detail-value {
+    font-family: "Roboto";
+    color: #5a7184;
+    font-size: 12px;
+    font-style: solid;
+    font-weight: normal;
+}
+
+.detail-value {
+    color: #151765;
+    font-family: "Roboto";
+    font-style: solid;
+    font-weight: 500;
+    font-size: 12px;
+}
+
+.button {
+    height: 35px;
+    width: 90px;
+    border-radius: 15px;
+    border-width: 0px;
+    color: #ffffff;
+    background-color: #151765;
+    font-family: "Roboto";
+    font-size: 14px;
+}
